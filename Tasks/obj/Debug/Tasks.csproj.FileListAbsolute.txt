@@ -1,0 +1,7 @@
+C:\Users\bogda\Documents\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\bogda\Documents\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\bogda\Documents\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\bogda\Documents\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\bogda\Documents\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Documents\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\bogda\Documents\Tasks\Tasks\obj\Debug\Tasks.pdb

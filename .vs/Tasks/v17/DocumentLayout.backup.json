@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\Documents\\Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\tasks\\task12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\tasks\\task12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\tasks\\task13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\tasks\\task13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\tasks\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\tasks\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\tasks\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\tasks\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|c:\\users\\bogda\\documents\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF0D24C-1FC8-4098-8CAC-6D2BEA509E64}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task12.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task12.cs",
+              "RelativeDocumentMoniker": "Tasks\\Tasks\\Task12.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task12.cs",
+              "RelativeToolTip": "Tasks\\Tasks\\Task12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:09:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task13.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task13.cs",
+              "RelativeDocumentMoniker": "Tasks\\Tasks\\Task13.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task13.cs",
+              "RelativeToolTip": "Tasks\\Tasks\\Task13.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:07:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task9.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task9.cs",
+              "RelativeDocumentMoniker": "Tasks\\Tasks\\Task9.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task9.cs",
+              "RelativeToolTip": "Tasks\\Tasks\\Task9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:06:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task7.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task7.cs",
+              "RelativeDocumentMoniker": "Tasks\\Tasks\\Task7.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task7.cs",
+              "RelativeToolTip": "Tasks\\Tasks\\Task7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:53:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task6.cs",
+              "RelativeDocumentMoniker": "Tasks\\Tasks\\Task6.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Tasks\\Task6.cs",
+              "RelativeToolTip": "Tasks\\Tasks\\Task6.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:38:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\Documents\\Tasks\\Tasks\\Program.cs",
+              "RelativeToolTip": "Tasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:32:44.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
